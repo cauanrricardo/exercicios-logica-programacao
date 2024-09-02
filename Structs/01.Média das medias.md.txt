@@ -1,0 +1,23 @@
+Tema: structs
+Exercicio: Média das médias
+
+Considere o seguinte formato de estrutura que deve ser usada em seu programa:
+
+aluno = {"Nome": Joao, "Notas": (8.5,7,6)}
+
+Usando a definição acima, crie um programa que possua uma função de leitura dos valores da estrutura (registro) de um aluno, e outra função que receba um vetor com dois registros de aluno e retorne a média das médias desses alunos. O valor de saída deve ter uma casa decimal.
+
+Exemplo de Entrada:
+
+Joao
+8.5
+7
+6
+Carlos
+8
+5
+5
+
+Exemplo de Saída:
+
+6.6
