@@ -13,7 +13,7 @@ struct info_aluno{
 //funcao para ler as variaveis definidas no struct
 struct info_aluno registro_aluno(){
     struct info_aluno aluno;
-    scanf(" %[^\n]", aluno.nome);
+    scanf(" %[^\n]s", aluno.nome);
     scanf("%d", &aluno.matricula);
     scanf(" %[^\n]", aluno.disciplina);
     scanf("%f", &aluno.nota);
