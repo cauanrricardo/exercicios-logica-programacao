@@ -1,0 +1,8 @@
+ Função que altera estrutura passada por referência
+
+Implemente a função 'calcula_media', que recebe um aluno passado por referência e preenche o campo 'media' com a média das 3 notas do aluno.
+
+O arquivo de envio já terá parte do código preenchido.
+Você deverá:
+- Implementar a função 'calcula_media'.
+- Chamar a função 'calcula_media' dentro da função 'main'.
