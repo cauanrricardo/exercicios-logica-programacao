@@ -9,7 +9,7 @@ int main(){
  printf("Digite uma string: ");
  scanf("%[^\n]", string);
 
-while(*fim_ptr != '\0' ){
+while(*fim_ptr ){
     fim_ptr++;//nao precisa do *, pois vc quer mover o ponteiro e nao acessar eles
 }
 fim_ptr--;
