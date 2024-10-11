@@ -1,15 +1,17 @@
 # Repositório de Exercícios de FUP em C
 
-Este repositório contém exercícios de Fundamentos de Programação (FUP) utilizando a linguagem C. Cada exercício é organizado em pastas específicas, de acordo com o tema abordado, para facilitar a navegação e o estudo.
+Este repositório contém exercícios de Fundamentos de Programação (FUP) em C, realizados durante o primeiro semestre do curso de Engenharia de Software. Os exercícios abordam conceitos básicos de programação e algoritmos, e são organizados por tema para facilitar a navegação e o estudo.
+
 
 ## Estrutura do Repositório
 
-A organização segue o formato abaixo:
+A organização segue o formato abaixo: 
+
 📂 exercicios-logica-progamacao/ ├── 📂 vetores/ │ ├── 📜 README.md │ └── 📜 codigo.c ├── 📂 matrizes/ │ ├── 📜 README.md │ └── 📜 codigo.c ├── 📂 strings/ │ ├── 📜 README.md │ └── 📜 codigo.c └── 📜 README.md
 
 ### Descrição dos Diretórios
 
-- **fup/**: Diretório principal que agrupa todos os exercícios da disciplina.
+- **exercicios-logica-progamcao/**: Diretório principal que agrupa todos os exercícios da disciplina.
 - **vetores/**, **matrizes/**, **strings/**, etc.: Cada subdiretório representa um tema abordado na disciplina de FUP, como vetores, matrizes, e manipulação de strings.
 
 ### Conteúdo de Cada Pasta
