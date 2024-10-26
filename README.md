@@ -26,7 +26,3 @@ Dentro de cada subdiretório, você encontrará:
 1. **Navegar pelos temas**: Escolha uma pasta com o tema que deseja estudar, como `vetores`, `matrizes` ou `strings`.
 2. **Ler o README.md**: Cada pasta contém um `README.md` com o enunciado do exercício e instruções.
 3. **Consultar o código**: Veja o arquivo `codigo.c` para entender a solução ou como o problema pode ser resolvido.
-
----
-
-Este modelo é direto e atende ao propósito de explicar a organização do repositório de forma simplificada, focando nos tópicos abordados em Fundamentos de Programação em C.
